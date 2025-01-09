@@ -3,3 +3,13 @@ fjjfjgbjl
 
 
 ghghgh
+
+
+git clone 
+
+git lfs track "*.pth"
+
+
+https://blog.csdn.net/qq_31362933/article/details/132640082
+
+
